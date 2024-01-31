@@ -1,5 +1,4 @@
 # password generator
-
 import string
 import secrets
 
