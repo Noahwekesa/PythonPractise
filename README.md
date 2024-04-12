@@ -1,16 +1,7 @@
-# INTRODUCTION
-This are just practise python code that i practise to better my skills everyday
+# Practising Python Algorithms
 
+## FOLDER1
 
-## BASICs
+### Data Structures and information retrieval in python
 
-## ADVANCED
-
-## PASSWORD GENERATOR
-A simple password generator that generates random passwords. Ask user how many charachters the password should be.
-the password includes:
-> lower case letter,
-> Higher case letter,
-> Numbers,
-> Symbols,
-
+[reference](https://allendowney.github.io/DSIRP/algorithms.html)
